@@ -1,0 +1,159 @@
+a.navbar-brand {
+    background-color: #4aaaa5;
+    width: 250px;
+    margin-left: 200px;
+    height: 95px;
+    width: 250px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 800;
+    color: white !important;
+}
+
+.navbar-default {
+    background-color: white;  
+}
+
+div.collapse {
+    background-color: white;
+}
+
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+    height: 500px;
+}
+
+.container {
+    align-content: center;
+}
+
+.navbar-default .navbar-nav>li>a {
+    font-size: 18px;
+    line-height: 50px;
+    color: #999;
+}
+
+.line {
+    margin-top: 18px;
+    font-size: 30px;
+    color: #efefef;
+}
+
+h1 {
+    color: #4aaaa5;
+    font-size: 30px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 800;
+    padding-top: 32px
+}
+
+h2 {
+    color: #4aaaa5;
+    font-size: 22px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 800;
+    padding-left: 35px;
+    padding-top: 25px
+}
+
+body {
+    margin-top: 140px;
+    background-image: url(http://lghospitalitysolutions.co.ke/wp-content/uploads/2015/01/texture_1-400x375.png);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+img {
+    width: 200px;
+    height: 180px;
+    margin: 10px
+}
+
+.col-md-8 {
+    border: solid 1px #ddd;
+    width: 700px;
+    margin-left: 80px;
+    background: white;
+    height: 800px
+}
+
+.col-md-4 {
+    border: solid 1px #ddd;
+    width: 300px;
+    height: 250px;
+    margin-left: 20px;
+    background: white
+}
+
+#hr1 {
+    height: 2.5px;
+    background-color: #ddd;
+    margin-left: auto;
+    margin-right: auto
+}
+
+#hr2 {
+    height: 2px;
+    background-color: #ddd;
+    margin-left: auto;
+    margin-right: auto
+}
+
+p {
+    font-size: 20px;
+    color: #777;
+    line-height: 1.6;
+    display: inline-block;
+}
+
+#catpic {
+    height: 170px;
+    width: 220px
+}
+
+p img {
+    height: 65px;
+    width: 65px  
+}
+
+footer {
+    height: 80px;
+    background: #666;
+    border-top: 800px solid #4aaaa5
+}
+
+h6 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ddd;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    padding-top: 30px
+}
+
+#portfoliotitle {
+    margin-left: 200px
+}
+
+.col-sm-6 img {
+    width: 250px;
+    margin-left: 30px
+}
+
+.col-md-8 h1 {
+    margin-left: 100px
+}
+
+.col-md-8 hr {
+    width: 600px
+}
+
+.longinput {
+    height: 300px;
+    width: 800px;
+}
+
+h4 {
+    text-align: center;
+}
